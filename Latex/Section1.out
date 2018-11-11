@@ -1,0 +1,6 @@
+\BOOKMARK [1][-]{section.0.1}{Import packages}{}% 1
+\BOOKMARK [1][-]{section.0.2}{Load Data Set:}{}% 2
+\BOOKMARK [1][-]{section.0.3}{Define variables , constants and placeholders of the logistic regression model}{}% 3
+\BOOKMARK [1][-]{section.0.4}{Define logistic regression model, loss functions and optimizers}{}% 4
+\BOOKMARK [1][-]{section.0.5}{Run Session}{}% 5
+\BOOKMARK [1][-]{section.0.6}{Results}{}% 6
